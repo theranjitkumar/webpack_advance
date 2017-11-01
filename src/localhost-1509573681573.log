@@ -1,0 +1,6 @@
+bundle.js:1 webpack called...
+bundle.js:1 webpack working good...'
+bundle.js:1 Message from Webpack class
+bundle.js:1 /dist2c1a189e4dc7d8cb1ef76a6f756e9844.png
+bundle.js:1 by.... Tack care..
+lgoImg:1 GET http://localhost:8081/lgoImg 404 (Not Found)
